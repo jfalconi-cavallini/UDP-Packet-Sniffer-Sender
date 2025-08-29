@@ -1,5 +1,7 @@
 # UDP Packet Sniffer & Latency Logger
 
+![Example](images/udp-sniffer.png)
+
 ## 📌 Overview
 
 This project demonstrates a simple **UDP-based packet capture and latency logging system** written in C++.
